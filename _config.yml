@@ -1,0 +1,28 @@
+name: SmartObscurer
+favicon: null
+layout_spectrum: 0.26196493417955935
+typography_spectrum: 0.10654499870724976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8211953239515424
+  lightness: 0.49297347222454846
+  saturation: 0.19116654573008418
+  rhythmicContrast: 0.2426863128785044
+purpose: []
