@@ -1,7 +1,7 @@
 name: SmartObscurer
 favicon: null
-layout_spectrum: 0.82307
-typography_spectrum: 0.68691
+layout_spectrum: 0.66774
+typography_spectrum: 0.61948
 title: Smart Obscurer
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#cccccc'
     - '#222222'
   brandStrength: 0.8211953239515424
-  lightness: 0.49297347222454846
-  saturation: 0.19116654573008418
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.2426863128785044
 purpose: []
