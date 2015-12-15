@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SmartObscurer]]></title>
+        <description><![CDATA[SmartObscurer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 23:42:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mac finally says “I do" to Microsoft]]></title>
+            <description><![CDATA[<article><h1>Mac finally says “I do" to Microsoft</h1><p>As a developer on the Microsoft stack for most of my career, I've long been tied to a PC to create sites and applications. I've used various versions of Visual Studio through the years. New tools have come and gone.... but one thing remained unchanged: I was always working on a PC. Although, I must confess - my heart belonged to Apple!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87cc7a5b2a18c541a2fbb0d5b7a98a20d19c7594.jpg"></article>]]></description>
+            <link>undefinedmac-finally-says-i-do-to-microsoft/index.html</link>
+            <guid isPermaLink="false">caa16cd4-f5d8-4fc7-ae7c-903d040e6c9f</guid>
+            <pubDate>Tue, 15 Dec 2015 23:42:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
