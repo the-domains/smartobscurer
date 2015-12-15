@@ -2,6 +2,7 @@ name: SmartObscurer
 favicon: null
 layout_spectrum: 0.82307
 typography_spectrum: 0.68691
+title: Smart Obscurer
 cta:
   domain: null
   bucket: null
